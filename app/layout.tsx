@@ -15,7 +15,7 @@ const lato = Lato({
 });
 
 export const metadata: Metadata = {
-  title: "Happy Birthday, Tanya",
+  title: "Happy Birthday, Sayangku",
   description: "A journey through time and love.",
 };
 
